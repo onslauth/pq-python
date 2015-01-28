@@ -1,6 +1,6 @@
 include $(PQ_FACTORY)/factory.mk
 
-pq_part_name := Python-3.4.2
+pq_part_name := Python-2.7.9
 pq_part_file := $(pq_part_name).tgz
 
 pq_python_configuration_flags += --prefix=$(part_dir)
